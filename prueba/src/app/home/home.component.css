@@ -11,17 +11,21 @@ input[type="text"] {
     border: solid 1px black;
     padding: 10px;
     border-radius: 8px;
-    margin-right: 4px;
+    margin-right: 10px;
     display: inline-block;
     width: 30%;
 }
 
 button {
     padding: 10px;
-    border: solid 1px black;
-    background: var(--primary-color);
-    color: black;
+    border: solid 1px grey;
+    background: black;
+    color: white;
     border-radius: 8px;
+}
+
+form {
+    margin: 20px;
 }
 
 @media (min-width: 500px) and (max-width: 768px) {
