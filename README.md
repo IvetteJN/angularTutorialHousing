@@ -1,27 +1,33 @@
-# Prueba
+# Housing App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.6.
+## About
+This Angular app serves as my first project using Angular 17. It implements various features introduced in Angular 17 and provides a foundation for further development.
 
-## Development server
+## Features
+- Utilizes Angular 17 features.
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+## Getting Started
+To get a local copy up and running follow these simple steps.
 
-## Code scaffolding
+### Prerequisites
+- Node.js and npm installed on your local machine.
+- Angular CLI installed globally.
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+### Installation
+1. **Clone the repository:** 
+   ```bash
+   git clone https://github.com/your-username/your-repository.git
+2. **Navigate to the project directory:** 
+   ```bash
+   cd your-repository
+3. **Install dependencies:** 
+   ```bash
+   npm install
 
-## Build
+### Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Usage
+This is an Angular app that lists houses for rent and shows the details of individual houses. This app uses features that are common to many Angular apps.
 
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+You can find the tutorial in the following link: Angular Tutorial: Build your first Angular app
